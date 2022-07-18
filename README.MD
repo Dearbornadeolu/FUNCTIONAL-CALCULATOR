@@ -1,7 +1,7 @@
 # CALCULATOR
 A FULL FUNCTIONAL CALCULATOR
 # LINK TO THE LIVE PAGE
-
+https://dearbornadeolu.github.io/FUNCTIONAL-CALCULATOR/
 ![CALCULATOR](desktop.jpg)
 # FOR MOBILE VIEW
 ![CALCULATOR](mobile.jpg)
